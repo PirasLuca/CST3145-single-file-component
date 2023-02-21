@@ -1,3 +1,3 @@
 <template>
-    <div>Welcome to the Product List C</div>
+    <div>Welcome to the Product List</div>
 </template>
