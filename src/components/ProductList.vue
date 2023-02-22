@@ -1,3 +1,3 @@
 <template>
-    <div>Welcome to the Product List</div>
+    <div>Welcome to the Product List Page</div>
 </template>
